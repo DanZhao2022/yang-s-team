@@ -5,30 +5,27 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - suicide
+  - deep learning
   - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: yangli@tju.edu.cn
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
+  - icon: researchgate
+    icon_pack: ai
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Tianjin University
+    url: http://www.tju.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: 2012-2016, PhD in Artificial Intelligence
       institution: Stanford University
-      year: 2012
+      year: ""
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -38,7 +35,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Principal Investigators
 highlight_name: false
 ---
 
